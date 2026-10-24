@@ -1,0 +1,4 @@
+# Keep personal date data out of version control
+dates.js
+node_modules/
+.env
