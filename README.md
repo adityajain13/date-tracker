@@ -14,7 +14,7 @@ One scrolling page, two sections:
 
 **Up Next** — a checklist of future date ideas. Click any to check it off; checked ones strike through and a running count appears at the top. Nothing persists on refresh — it's meant as a "right now" planning tool, not a to-do list.
 
-Multi-day trips get sub-numbered entries (`35.1`, `35.2`, `35.3`) so each day gets its own line without inflating the date count.
+Multi-day trips get sub-numbered entries (`1.1`, `1.2`, `1.3`) so each day gets its own line without inflating the date count.
 
 ![Up Next view](docs/screenshot-upnext.png)
 
